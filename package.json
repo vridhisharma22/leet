@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.1.0",
+    "react-router-dom": "^7.18.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
